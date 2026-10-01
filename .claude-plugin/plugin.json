@@ -1,0 +1,12 @@
+{
+  "name": "travel-vibes",
+  "displayName": "Travel Vibes: Trip Itineraries",
+  "version": "1.0.0",
+  "description": "Travel Vibes helps you plan trips by turning your preferences into full itineraries. Get a day-by-day plan with flights, accommodation, activities, budget, maps, and more. Save and edit your itinerary in Scratchpad, and share it with travel buddies. No forms or rigid templates, just describe your vibe and get a ready-to-use plan.",
+  "author": {
+    "name": "Travel Vibes",
+    "url": "https://travelvibes.ai"
+  },
+  "homepage": "https://travelvibes.ai",
+  "license": "MIT"
+}
