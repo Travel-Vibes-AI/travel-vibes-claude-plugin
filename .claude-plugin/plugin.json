@@ -8,6 +8,8 @@
     "url": "https://travelvibes.ai"
   },
   "homepage": "https://travelvibes.ai",
+  "icon": "./assets/logo.png",
   "privacyPolicyUrl": "https://travelvibes.ai/privacy",
+  "termsOfServiceUrl": "https://travelvibes.ai/terms",
   "license": "MIT"
 }
